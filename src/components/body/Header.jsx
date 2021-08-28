@@ -12,7 +12,7 @@ function Header() {
             </div>
             <div className = "flex items-center space-x-4">
                 <h1 className="text-xl font-semibold">Follow Kg Blog facebook page for More</h1>
-                <img className="h-10 space-x-2 cursor-pointer" src="./logo512.png" alt="Kg blog icon"/>
+                {/* <img className="h-10 space-x-2 cursor-pointer" src="./logo512.png" alt="Kg blog icon"/> */}
             </div>
         </header>
     )
